@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="85.170503">
+    <testcase classname="Title of your feature" name="Title of your scenario" time="85.170503">
+        <system-out>
+            <![CDATA[Given user is on home page..................................................passed
+When user click on clear cookies button.....................................passed
+When User gives input as....................................................passed
+Then user sort the price details............................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>

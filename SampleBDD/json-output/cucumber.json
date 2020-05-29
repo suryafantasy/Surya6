@@ -1,0 +1,45 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 6,
+        "name": "Title of your scenario",
+        "description": "",
+        "id": "title-of-your-feature;title-of-your-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "user is on login page",
+            "match": {
+              "location": "LoginStepdef.user_is_on_login_page()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 5,
+            "name": "@tag1"
+          }
+        ]
+      }
+    ],
+    "name": "Title of your feature",
+    "description": "I want to use this template for my feature file",
+    "id": "title-of-your-feature",
+    "keyword": "Feature",
+    "uri": "C:/Users/Muthukumar/eclipse-workspace/SampleBDD/src/main/java/com/feature/scenario1.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@tag"
+      }
+    ]
+  }
+]
